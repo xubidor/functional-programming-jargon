@@ -572,7 +572,7 @@ add('Foo', 'Bar'); // Returns string "FooBar"
 
 Union types are also known as algebraic types, tagged unions, or sum types.
 
-There's a [couple](https://github.com/paldepind/union-type) [libraries](https://github.com/puffnfresh/daggy) in JS which help with defining and using union types.
+There are a [couple](https://github.com/paldepind/union-type) [libraries](https://github.com/puffnfresh/daggy) in JS which help with defining and using union types.
 
 ## Product type
 
